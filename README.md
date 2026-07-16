@@ -5,7 +5,7 @@ An advanced, production-ready environment configured with Hardhat to develop, te
 ## 🛠️ Features
 - **Smart Contract Layer:** Built with Solidity `0.8.24` featuring secure, optimized vault mechanics.
 - **Testing Suite:** Fully integrated TypeScript testing framework using Chai and Hardhat Network.
-- **Configuration:** Seamless pre-configured RPC deployment environments for Base.
+- **Configuration:** Seamless pre-configured RPC deployment environments for Base...
 
 ## 💻 Tech Stack
 - **Languages:** Solidity, TypeScript
