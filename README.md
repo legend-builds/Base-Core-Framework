@@ -3,7 +3,7 @@
 An advanced, production-ready environment configured with Hardhat to develop, test, and deploy highly secure smart contracts on the Base Network.
 
 ## 🛠️ Features
-- **Smart Contract Layer:** Built with Solidity `0.8.24` featuring secure, optimized vault mechanics..
+- **Smart Contract Layer:** Built with Solidity `0.8.24` featuring secure, optimized vault mechanics...
 - **Testing Suite:** Fully integrated TypeScript testing framework using Chai and Hardhat Network.
 - **Configuration:** Seamless pre-configured RPC deployment environments for Base...
 
